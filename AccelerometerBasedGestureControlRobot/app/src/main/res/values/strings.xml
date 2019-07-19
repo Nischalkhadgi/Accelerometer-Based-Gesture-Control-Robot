@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accelerometer BasedGesture Control Robot</string>
+    <string name="title_activity_splash">Control Room</string>
+</resources>
